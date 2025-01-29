@@ -1,9 +1,10 @@
 
 /* Your CSS Code here. */
 
-.mainbox{
+.holder{
 	display:flex;
-	justify-content:space-between
+	justify-content:space-between;
+	flex-wrap:wrap;
 }
 .box3{
 	background-color:green;
